@@ -3,7 +3,7 @@
 
 This game was developed for the Nokia 3310 Jam.
 
-You can play the game [here](https://smeurfy.itch.io/bouncing-ball)
+You can play the game [here](https://smeurfy.itch.io/bouncing-ball).
 
 ### Restrictions
 - Only two colors: #c7f0d8 #43523d
