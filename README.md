@@ -2,6 +2,7 @@
 ![](images/Banner.png)
 
 This game was developed for the Nokia 3310 Jam.
+The game is very hard. Not for all types of players.
 
 You can play the game [here](https://smeurfy.itch.io/bouncing-ball).
 
