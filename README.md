@@ -1,4 +1,4 @@
-## Bouncing Ball
+# Bouncing Ball
 
 ![](images/Banner.png)
 
