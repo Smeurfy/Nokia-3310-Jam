@@ -1,5 +1,4 @@
 ## Bouncing Ball
-This game was developed for the Nokia 3310 Jam.
 
 ![](images/Banner.png)
 
